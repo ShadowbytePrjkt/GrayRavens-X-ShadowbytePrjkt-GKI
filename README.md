@@ -10,9 +10,6 @@
     <a href="https://www.kernel.org/">
       <img src="https://img.shields.io/badge/Linux-5.10-blue?style=flat-square&logo=linux&logoColor=white" alt="Kernel Branch">
     </a>
-    <a href="https://github.com/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI?color=red" alt="License">
-    </a>
   </p>
 
   <br/>
@@ -69,12 +66,11 @@ The focus is on **desktop-like fluidity**, strong gaming performance, excellent 
 
 All kernels are distributed here:
 
-→ **[Releases tab](https://github.com/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI/releases/latest)**  
-(Flashable AnyKernel3 ZIPs + boot images when available)
+→ **[Releases tab]([https://github.com/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI/releases/tag/Redemption])**  
+(Flashable AnyKernel3 ZIPs)
 
 - Check for the latest version (e.g., AK3-GrayRavens-Redemption style builds)
 - Files typically include AnyKernel3 ZIP for easy recovery flashing
-- MD5/SHA hashes provided in release notes for verification
 
 **Quick flash guide (when a release is live):**
 1. Backup your current boot partition
