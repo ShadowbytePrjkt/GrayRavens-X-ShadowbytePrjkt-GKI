@@ -3,16 +3,6 @@
   <h1>GrayRavens-X-ShadowbytePrjkt-GKI</h1>
   <h3>ShadowbytePrjkt × GrayRavens Redemption</h3>
 
-  <p>
-    <a href="https://github.com/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI/releases">
-      <img src="https://img.shields.io/github/downloads/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI/total?color=ff69b4&logo=github" alt="Total Downloads">
-    </a>
-    <a href="https://www.kernel.org/">
-      <img src="https://img.shields.io/badge/Linux-5.10-blue?style=flat-square&logo=linux&logoColor=white" alt="Kernel Branch">
-    </a>
-  </p>
-
-  <br/>
 
   <img src="https://github.com/user-attachments/assets/d520c491-4369-45bc-a6fa-daf38e762eab" 
        alt="GrayRavens Redemption Banner" 
