@@ -1,110 +1,117 @@
 <div align="center">
 
-  <h1>AK3-GrayRavens-Redemption-V5</h1>
+  <h1>GrayRavens-X-ShadowbytePrjkt-GKI</h1>
   <h3>ShadowbytePrjkt × GrayRavens Redemption</h3>
 
   <p>
-    <a href="https://github.com/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI/releases/latest">
-      <img src="https://img.shields.io/github/v/release/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI?color=ff69b4&label=Latest%20Release&logo=github" alt="Latest Release">
+    <a href="https://github.com/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI/releases">
+      <img src="https://img.shields.io/github/downloads/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI/total?color=ff69b4&logo=github" alt="Total Downloads">
     </a>
     <a href="https://www.kernel.org/">
-      <img src="https://img.shields.io/badge/Linux-5.10.250-blue?style=flat-square&logo=linux&logoColor=white" alt="Kernel Version">
+      <img src="https://img.shields.io/badge/Linux-5.10-blue?style=flat-square&logo=linux&logoColor=white" alt="Kernel Branch">
     </a>
-
+    <a href="https://github.com/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI?color=red" alt="License">
+    </a>
+  </p>
 
   <br/>
 
-  <img src="https://github.com/user-attachments/assets/d520c491-4369-45bc-a6fa-daf38e762eab" alt="GrayRavens Redemption V5 Banner" width="900" style="max-width:100%; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"/>
+  <img src="https://github.com/user-attachments/assets/d520c491-4369-45bc-a6fa-daf38e762eab" 
+       alt="GrayRavens Redemption Banner" 
+       width="900" 
+       style="max-width:100%; border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.6);"/>
 
   <br/><br/>
 
-  **Performance-tuned upstream kernel with modern root, hiding, and smoothness focus**  
-  Built for fluid experience • Gaming responsiveness • Thermal/battery balance  
-  ඞ *sus kernel energy – among us redemption arc*
+  **GKI-focused kernel releases for 5.10-based devices**  
+  Tuned for smoothness • Gaming responsiveness • Battery/thermal efficiency  
+  ඞ *Redemption arc – full sus mode activated*
 
 </div>
 
 ---
 
-### ✨ Core Features at a Glance
+### Project Overview
 
-- Linux **5.10.250** heavily upstreamed
-- **FULL PREEMPT** – desktop-like responsiveness
-- **RCU** fine-tuned for multi-core efficiency
-- **BFQ** I/O scheduler – silky smooth multitasking & daily use
-- **Zen patched I/O scheduler** – extra aggressive & responsive
-- Carefully tuned **schedutil** governor
-- **KernelSU-Next** built-in (next-gen root)
-- **SusFS** fully integrated – powerful filesystem & hiding toolkit
-- **TC-CAKE** – smart QoS for low-latency networking & gaming
+**GrayRavens-X-ShadowbytePrjkt-GKI** serves as the dedicated release hub for **Generic Kernel Image (GKI)** builds in the GrayRavens-Redemption family.
 
-### ⚡ Highlights & Benefits
+Built on stable **Linux 5.10 LTS** with heavy upstreaming, these kernels deliver:
+- Clean upstream work
+- Interactive I/O scheduler enhancements
+- Modern governor tuning
+- KernelSU-Next root
+- SusFS hiding toolkit
 
-- Ultra-smooth animations and scrolling
-- Strong gaming input latency & frame stability
-- Excellent battery + thermal profile for daily drivers
-- Minimalist modifications with heavy upstream focus
-- Modern root & anti-detection in a single flash
+The focus is on **desktop-like fluidity**, strong gaming performance, excellent thermals/battery life, and powerful customization — all while staying minimal and maintainable for GKI-compatible devices.
 
-### 📥 Latest Release
+### ✨ Core Features
 
-→ Head to the **[Releases tab]([https://github.com/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI/releases/latest)** for AnyKernel3 ZIPs and boot images.
+- **Linux 5.10 LTS** base (continuously upstreamed to latest stable point)
+- **FULL PREEMPT** – ultra-responsive scheduling
+- **RCU** optimizations for multi-core scaling
+- **BFQ** I/O scheduler – silky smooth daily & multitasking use
+- **Zen patched I/O scheduler** – aggressive latency tweaks
+- Fine-tuned **schedutil** governor
+- **KernelSU-Next** integrated (next-gen root solution)
+- **SusFS** full support – advanced filesystem & hiding capabilities
+- **TC-CAKE** – smart queueing for low-latency networking/gaming
 
-**Current stable:** v20260208-V5  
-**Full kernel string:**  
-`AK3-GrayRavens-Redemption-V5-ShadowbytePrjkt-v20260208-5.10.250-GrayRavens-Redemption-V4.1-ShadowbytePrjkt-ඞ-SuS-Mtk-SusFS`
+### ⚡ Why This Kernel Series?
 
-### 🛠️ Flash Instructions (AnyKernel3 – Recommended)
+- Exceptional UI smoothness and animation consistency
+- Gaming-friendly input latency & frame stability
+- Balanced performance with great thermal/battery profile
+- Modern root + anti-detection features included
+- GKI format for broader device compatibility on 5.10 kernels
 
-1. **Backup boot & persist** partitions first!
-2. Boot to custom recovery (TWRP / OrangeFox preferred)
-3. Flash the **AnyKernel3 ZIP** from releases
-4. Wipe Dalvik / ART Cache (optional but recommended)
-5. Reboot — first boot may take 8–12 minutes
+### 📥 Releases & Downloads
 
-**Advanced users:** Flash boot.img via fastboot.
+All kernels are distributed here:
+
+→ **[Releases tab](https://github.com/ShadowbytePrjkt/GrayRavens-X-ShadowbytePrjkt-GKI/releases/latest)**  
+(Flashable AnyKernel3 ZIPs + boot images when available)
+
+- Check for the latest version (e.g., AK3-GrayRavens-Redemption style builds)
+- Files typically include AnyKernel3 ZIP for easy recovery flashing
+- MD5/SHA hashes provided in release notes for verification
+
+**Quick flash guide (when a release is live):**
+1. Backup your current boot partition
+2. Boot to custom recovery (TWRP/OrangeFox/etc.)
+3. Flash the AnyKernel3 ZIP
+4. Wipe Dalvik/ART Cache (optional)
+5. Reboot — first boot may take longer
+
+Advanced: Flash boot.img via fastboot.
 
 ### 📋 Requirements
 
+- Device with **Linux 5.10** kernel base (GKI-compatible)
 - Unlocked bootloader
-- Custom recovery / kernel flasher
-- device with 5.10 kernel
+- Custom recovery installed
 
-### 📜 Recent Changelog (V5 – 20260208)
+### ❤️ Credits & Thanks
 
-- Upstream → Linux 5.10.250
-- Schedutil governor refinements (better mid-load & gaming)
-- SusFS updates & cleaner integration
-- Stability patches from CAF & upstream
-
-See full changelogs on the [Releases page]().
-
-### ❤️ Shoutouts
-
-- Linux kernel upstream
-- KernelSU-Next developers
+- Linux kernel upstream community
+- KernelSU-Next team
 - osm0sis – AnyKernel3 framework
-- GrayRavens community spirit
+- GrayRavens inspiration & aesthetic
 - All patch contributors & testers
-- BoltXNext for help
-- ramabondanp for source code
-- MilleniumOSS for mahiru kernel
+- sipurse for best banner
 
-### 📞 Connect & Support
+### 📞 Support
 
-- Report bugs → GitHub Issues
-- Telegram / Discord (add your links here)
-- XDA thread (if you have one)
+- Bugs or questions → open a issue in this repo
+- More discussion → https://t.me/ShadowbytePrjkt
 
 <div align="center">
 
   <br/><br/>
 
-  Crafted with ❤️ by **ShadowbytePrjkt** & GrayRavens Team  
-  ඞ **Redemption arc – full sus mode activated**
+  Built with passion by **ShadowbytePrjkt** & GrayRavens Team  
+  ඞ **Among us kernel vibes – redemption in progress**
 
   <br/>
 
-  <img src="https://via.placeholder.com/80x80/111111/ff69b4?text=ඞ" alt="Sus Icon" width="80"/>
-
-</div>
+ 
